@@ -1,0 +1,237 @@
+Age Range,Gender,Fitness Goal,Activity Level,Dietary Preferences,Medical Conditions,Experience Level,Meal Recommendation
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Grilled Chicken Breast with Quinoa
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Beef Stir-Fry with Vegetables
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Salmon with Sweet Potato and Asparagus
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Greek Yogurt with Mixed Berries and Nuts
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Turkey and Avocado Wrap
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Lentil Soup with Spinach
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Cottage Cheese with Pineapple
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Protein-Packed Smoothie
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Egg White Omelette with Veggies
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Tuna Salad with Chickpeas
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Grilled Chicken Salad
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Zucchini Noodles with Tomato Sauce
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Egg Salad Lettuce Wraps
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Baked Salmon with Broccoli
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cauliflower Rice with Stir-Fried Veggies
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chia Seed Pudding
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Greek Yogurt with Nuts and Seeds
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken and Vegetable Soup
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Spaghetti Squash with Marinara Sauce
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cottage Cheese with Cucumber Slices
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Grilled Steak with Sweet Potatoes
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Shrimp and Avocado Salad
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Chicken and Quinoa Bowl
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Turkey Meatballs with Spaghetti Squash
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Smoothie Bowl
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Beef and Veggie Stir-Fry
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Greek Yogurt Parfait
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Egg and Veggie Scramble
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Salmon with Brown Rice
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Cottage Cheese with Pineapple
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Grilled Salmon with Asparagus
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Chicken and Sweet Potato Curry
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Beef and Broccoli Stir-Fry
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Greek Yogurt with Chia Seeds and Fruit
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Turkey and Quinoa Stuffed Peppers
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Cottage Cheese with Almonds and Berries
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Protein Smoothie with Spinach and Banana
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Lentil and Vegetable Soup
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Egg Muffins with Spinach and Feta
+31-40,Female,Gain Muscle,Moderately Active,High protein,None,Intermediate,Chicken Caesar Salad
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Grilled Chicken Breast with Steamed Vegetables
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Spinach and Feta Stuffed Chicken
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Salmon Salad with Avocado and Lemon
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Zucchini Noodles with Pesto
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Eggplant Lasagna
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Greek Yogurt with Cucumber and Dill
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Chicken and Kale Soup
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Baked Cod with Brussel Sprouts
+41-50,Male,Lose Weight,Lightly Active,Low carb,High blood pressure,Beginner,Stuffed Bell Peppers with Ground Turkey
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Chicken and Vegetable Stir-Fry
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Quinoa Salad with Chickpeas and Avocado
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Salmon with Asparagus and Brown Rice
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Turkey and Sweet Potato Chili
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Greek Yogurt Smoothie with Spinach
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Stuffed Zucchini Boats
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Lentil and Carrot Stew
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Chicken and Broccoli Casserole
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Cottage Cheese with Pineapple
+41-50,Female,Maintain Fitness,Moderately Active,Balanced diet,Osteoporosis,Intermediate,Egg and Veggie Muffins
+18-30,Male,Gain Muscle,Very Active,High protein,None,Beginner,Chicken and Broccoli Stir-Fry
+18-30,Male,Gain Muscle,Very Active,High protein,None,Beginner,Quinoa and Black Bean Salad
+18-30,Male,Gain Muscle,Very Active,High protein,None,Beginner,Grilled Turkey Burgers
+18-30,Male,Gain Muscle,Very Active,High protein,None,Beginner,Salmon with Quinoa and Spinach
+18-30,Male,Gain Muscle,Very Active,High protein,None,Beginner,Greek Yogurt Smoothie with Berries
+18-30,Female,Lose Weight,Lightly Active,Low carb,None,Beginner,Grilled Chicken Salad with Avocado
+18-30,Female,Lose Weight,Lightly Active,Low carb,None,Beginner,Zucchini Noodles with Chicken
+18-30,Female,Lose Weight,Lightly Active,Low carb,None,Beginner,Baked Salmon with Steamed Broccoli
+18-30,Female,Lose Weight,Lightly Active,Low carb,None,Beginner,Egg White Omelette with Spinach
+18-30,Female,Lose Weight,Lightly Active,Low carb,None,Beginner,Greek Yogurt with Nuts and Seeds
+31-40,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Chicken and Vegetable Stir-Fry
+31-40,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Quinoa Salad with Chickpeas
+31-40,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Salmon with Brown Rice
+31-40,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Turkey and Sweet Potato Chili
+31-40,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Greek Yogurt Smoothie with Spinach
+31-40,Female,Gain Muscle,Very Active,High protein,None,Advanced,Chicken and Lentil Salad
+31-40,Female,Gain Muscle,Very Active,High protein,None,Advanced,Beef and Vegetable Stir-Fry
+31-40,Female,Gain Muscle,Very Active,High protein,None,Advanced,Salmon with Quinoa
+31-40,Female,Gain Muscle,Very Active,High protein,None,Advanced,Turkey Meatballs with Spaghetti Squash
+31-40,Female,Gain Muscle,Very Active,High protein,None,Advanced,Protein Smoothie with Banana
+41-50,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cauliflower Rice with Stir-Fried Vegetables
+41-50,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Zucchini Noodles with Tomato Sauce
+41-50,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Stuffed Bell Peppers with Lean Ground Turkey
+41-50,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken and Kale Soup
+41-50,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Grilled Chicken Salad
+51-60,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Chicken and Brown Rice Bowl
+51-60,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Quinoa Salad with Roasted Vegetables
+51-60,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Baked Salmon with Steamed Vegetables
+51-60,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Lentil Soup with Spinach
+51-60,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Stuffed Bell Peppers with Ground Turkey
+51-60,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Grilled Chicken Breast with Broccoli
+51-60,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Turkey and Quinoa Stuffed Peppers
+51-60,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Salmon with Sweet Potatoes
+51-60,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Protein Smoothie with Spinach and Banana
+51-60,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Cottage Cheese with Fresh Fruit
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Grilled Chicken Breast with Quinoa
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Beef Stir-Fry with Vegetables
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Salmon with Sweet Potato and Asparagus
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Greek Yogurt with Mixed Berries and Nuts
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Turkey and Avocado Wrap
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Lentil Soup with Spinach
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Cottage Cheese with Pineapple
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Protein-Packed Smoothie
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Egg White Omelette with Veggies
+18-30,Male,Gain Muscle,Moderately Active,High protein,None,Intermediate,Tuna Salad with Chickpeas
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Grilled Chicken Salad
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Zucchini Noodles with Tomato Sauce
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Egg Salad Lettuce Wraps
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Baked Salmon with Broccoli
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cauliflower Rice with Stir-Fried Veggies
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chia Seed Pudding
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Greek Yogurt with Nuts and Seeds
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken and Vegetable Soup
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Spaghetti Squash with Marinara Sauce
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cottage Cheese with Cucumber Slices
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Grilled Steak with Sweet Potatoes
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Shrimp and Avocado Salad
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Chicken and Quinoa Bowl
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Turkey Meatballs with Spaghetti Squash
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Smoothie Bowl
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Beef and Veggie Stir-Fry
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Greek Yogurt Parfait
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Egg and Veggie Scramble
+31-40,Male,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Chicken Fajita Bowl
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Baked Cod with Spinach
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Turkey and Veggie Stir-Fry
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Chicken and Cauliflower Rice
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Salmon Salad
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Vegetable Soup
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Greek Yogurt with Almonds
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Egg Salad with Greens
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Chicken and Broccoli Stir-Fry
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Grilled Shrimp with Zucchini Noodles
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Tofu Stir-Fry with Vegetables
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Grilled Chicken with Asparagus
+41-50,Female,Lose Weight,Sedentary,Low carb,High cholesterol,Beginner,Baked Salmon with Brussels Sprouts
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Grilled Chicken with Mixed Vegetables
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Beef Stir-Fry with Broccoli
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Chicken and Sweet Potato Bake
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Grilled Tuna with Spinach Salad
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Pork Tenderloin with Roasted Vegetables
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Salmon with Quinoa and Kale
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Turkey and Vegetable Soup
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Chicken Caesar Salad
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Beef and Veggie Kebabs
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Baked Chicken with Sweet Potatoes
+51-60,Male,Maintain Fitness,Moderately Active,Balanced diet,None,Intermediate,Chicken and Brussels Sprouts Stir-Fry
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Grilled Chicken with Quinoa and Broccoli
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Baked Salmon with Asparagus
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Turkey and Sweet Potato Skillet
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Salmon Salad with Avocado
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Grilled Shrimp with Spinach Salad
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Chicken and Quinoa Bowl
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Beef Stir-Fry with Mixed Vegetables
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Egg and Veggie Scramble
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Chicken and Vegetable Stir-Fry
+51-60,Female,Maintain Fitness,Very Active,Balanced diet,None,Advanced,Grilled Tuna with Vegetables
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Beef and Veggie Skewers
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Chicken and Lentil Salad
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Salmon with Quinoa and Spinach
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Turkey and Sweet Potato Stew
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Greek Yogurt Smoothie with Protein Powder
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Egg and Veggie Frittata
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Cottage Cheese with Fresh Fruit
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Grilled Chicken with Mixed Vegetables
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Quinoa and Black Bean Salad
+51-60,Male,Gain Muscle,Moderately Active,High protein,None,Advanced,Baked Cod with Roasted Brussels Sprouts
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken Salad with Avocado and Tomato
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Stuffed Bell Peppers with Lean Ground Turkey
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Grilled Salmon with Spinach and Mushrooms
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cauliflower Rice with Stir-Fried Vegetables
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Zucchini Noodles with Chicken and Pesto
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Egg White Omelette with Vegetables
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Greek Yogurt with Berries and Nuts
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken Soup with Kale
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Spinach and Feta Stuffed Chicken Breast
+51-60,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Baked Tilapia with Asparagus
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Baked Salmon with Steamed Vegetables
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Chicken and Brown Rice Bowl
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Quinoa Salad with Roasted Vegetables
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Greek Yogurt with Fresh Fruit
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Lentil Soup with Spinach
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Stuffed Bell Peppers with Ground Turkey
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Egg Salad Lettuce Wraps
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Baked Cod with Mixed Greens
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Chicken and Vegetable Stir-Fry
+61-70,Male,Maintain Fitness,Sedentary,Balanced diet,Heart disease,Beginner,Cottage Cheese with Berries
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Grilled Chicken Breast with Broccoli
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Turkey and Quinoa Stuffed Peppers
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Salmon with Sweet Potatoes
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Greek Yogurt with Almonds
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Egg White Omelette with Spinach and Feta
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Chicken and Vegetable Stir-Fry
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Protein Smoothie with Spinach and Banana
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Cottage Cheese with Fresh Fruit
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Lentil and Vegetable Soup
+61-70,Female,Gain Muscle,Moderately Active,High protein,Osteoporosis,Intermediate,Baked Salmon with Asparagus
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Chicken Salad with Avocado and Tomato
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Stuffed Bell Peppers with Lean Ground Turkey
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Grilled Salmon with Spinach and Mushrooms
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Cauliflower Rice with Stir-Fried Vegetables
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Zucchini Noodles with Chicken and Pesto
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Egg White Omelette with Vegetables
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Greek Yogurt with Berries and Nuts
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Chicken Soup with Kale
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Spinach and Feta Stuffed Chicken Breast
+18-30,Male,Gain Muscle,Sedentary,Balanced diet,None,Beginner,Baked Tilapia with Asparagus
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken Salad with Avocado and Tomato
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Stuffed Bell Peppers with Lean Ground Turkey
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Grilled Salmon with Spinach and Mushrooms
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Cauliflower Rice with Stir-Fried Vegetables
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Zucchini Noodles with Chicken and Pesto
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Egg White Omelette with Vegetables
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Greek Yogurt with Berries and Nuts
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Chicken Soup with Kale
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Spinach and Feta Stuffed Chicken Breast
+18-30,Female,Lose Weight,Lightly Active,Low carb,Diabetes,Beginner,Baked Tilapia with Asparagus
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Grilled Chicken Breast with Broccoli
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Turkey and Quinoa Stuffed Peppers
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Salmon with Sweet Potatoes
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Greek Yogurt with Almonds
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Egg White Omelette with Spinach and Feta
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Chicken and Vegetable Stir-Fry
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Protein Smoothie with Spinach and Banana
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Cottage Cheese with Fresh Fruit
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Lentil and Vegetable Soup
+18-30,Male,Maintain Fitness,Moderately Active,High protein,Heart disease,Intermediate,Baked Salmon with Asparagus
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Beef and Veggie Skewers
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Chicken and Lentil Salad
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Salmon with Quinoa and Spinach
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Turkey and Sweet Potato Stew
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Greek Yogurt Smoothie with Protein Powder
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Egg and Veggie Frittata
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Cottage Cheese with Fresh Fruit
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Grilled Chicken with Mixed Vegetables
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Quinoa and Black Bean Salad
+18-30,Female,Gain Muscle,Very Active,High protein,Osteoporosis,Advanced,Baked Cod with Roasted Brussels Sprouts
